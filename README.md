@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi there, I'm Pramit Jana
+💻 Developer | Tech Learner | Problem Solver
 
-<!--
-**Pramit-Jana10/Pramit-Jana10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
+I enjoy building projects, exploring new technologies, and constantly improving my skills.
 
-Here are some ideas to get you started:
+🚀 About Me
+🌱 Currently learning Java | Web Development | DSA | DAA
+🧩 I love solving programming and real-world problems
+🤝 Open to collaboration on interesting projects
+🎯 Goal: Become a skilled Software Developer
+⚡ Fun fact: I fix bugs I didn't even create 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Languages
+Java • Python • C • JavaScript
+
+Web Technologies
+HTML • CSS • Node.js • React (if applicable)
+
+Tools / Platforms
+Git • GitHub • VS Code • IntelliJ IDEA
+
+
+🌐 Connect With Me
+LinkedIn: 
+Portfolio:
+
+✨ Quote
+
+"The future belongs to those who learn continuously and build consistently."
