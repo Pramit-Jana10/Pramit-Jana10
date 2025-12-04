@@ -1,10 +1,13 @@
 👋 Hi there, I'm Pramit Jana
+
 💻 Developer | Tech Learner | Problem Solver
 
 Welcome to my GitHub profile!
+
 I enjoy building projects, exploring new technologies, and constantly improving my skills.
 
 🚀 About Me
+
 🌱 Currently learning Java | Web Development | DSA | DAA
 🧩 I love solving programming and real-world problems
 🤝 Open to collaboration on interesting projects
