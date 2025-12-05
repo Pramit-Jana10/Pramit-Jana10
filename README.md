@@ -72,54 +72,7 @@ I love building impactful projects, learning new technologies, and solving real-
 
 ---
 
-# 🧩 Featured Projects (Portfolio Style)
 
-### 🔹 **Project 1 – Signature Verification System**
-AI-powered verification using Flask + TensorFlow + MongoDB  
-⭐ Accuracy-focused deep learning model  
-🔗 *Add link here*
-
-### 🔹 **Project 2 – DBMS Report Generator API**
-Node.js + PostgreSQL (Neon)  
-⭐ Advanced SQL analytics + API design  
-🔗 *Add link here*
-
-### 🔹 **Project 3 – Your Future Projects**
-Add more as you grow! 🚀
-
----
-
-# 📊 GitHub Analytics (Pro Edition)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pramit-Jana10&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pramit-Jana10&theme=tokyonight&hide_border=true" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramit-Jana10&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🎨 Minimal Aesthetic Section (For Professionals)
-
----
-
-# 🛰️ 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # ✨ Quote  
 > *“The future belongs to those who learn continuously and build consistently.”*
