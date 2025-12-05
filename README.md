@@ -111,6 +111,28 @@ Add more as you grow! 🚀
 
 # 🎨 Minimal Aesthetic Section (For Professionals)
 
+---
+
+# 🛰️ 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# ✨ Quote  
+> *“The future belongs to those who learn continuously and build consistently.”*
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
+
+
 
 
 
