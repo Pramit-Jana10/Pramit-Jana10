@@ -1,51 +1,45 @@
-👋 Hi there, I'm Pramit Jana
+<div align="center">
 
-💻 Developer | Tech Learner | Problem Solver
+# ✒️ **Signify – Signature Verification System**
+AI-powered signature verification using **Flask**, **TensorFlow (ResNet50)**, and **MongoDB Atlas**.
 
+---
 
-Welcome to my GitHub profile!
+## 🚀 Powerful • 🔐 Secure • ⚡ Fast
 
-I enjoy building projects, exploring new technologies, and constantly improving my skills.
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-API-black?logo=flask)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Model-orange?logo=tensorflow)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
+</div>
 
-🚀 About Me
+---
 
-🌱 Currently learning Java | Web Development | DSA | DAA
+## ⭐ **Features**
 
-🧩 I love solving programming and real-world problems
+### 🔐 User Authentication
+- User registration & login  
+- Admin login with auto-created default admin from environment variables  
 
-🤝 Open to collaboration on interesting projects
+### 🧠 AI-Powered Signature Verification
+- ResNet50 pretrained on ImageNet  
+- Feature extraction + cosine similarity  
+- Threshold-based match detection  
 
-🎯 Goal: Become a skilled Software Developer
+### 📂 Verification Logs
+- Stored in MongoDB  
+- Includes filenames, confidence score, match result, time, timestamp  
 
-⚡ Fun fact: I fix bugs I didn't even create 😄
+### 🛢️ Cloud Database (MongoDB Atlas)
+- Environment-based configuration  
+- Auto-admin creation  
+- Secure cloud storage for users and logs  
 
+### 🌐 REST API Support
+- Login  
+- Register  
+- Verify  
+- Fetch logs  
 
-🛠️ Tech Stack
-
-Languages
-
-Java • Python • C • JavaScript
-
-
-Web Technologies
-
-HTML • CSS • Node.js • React 
-
-
-Tools / Platforms
-
-Git • GitHub • VS Code • IntelliJ IDEA
-
-
-
-🌐 Connect With Me
-
-LinkedIn: 
-
-Portfolio:
-
-
-✨ Quote
-
-"The future belongs to those who learn continuously and build consistently."
